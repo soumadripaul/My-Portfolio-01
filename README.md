@@ -1,0 +1,1 @@
+This is my personal portfolio website showcasing my skills and contact information. I built this as a learner using HTML and CSS. The site features dedicated pages for skills and contact details, along with a visually appealing layout.
